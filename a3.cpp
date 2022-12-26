@@ -1,5 +1,5 @@
-# include<iostream>
-# include<stdio.h>
+#include<iostream>
+#include<stdio.h>
 using namespace std;
 class publication                 // declaring class Publication
  {
