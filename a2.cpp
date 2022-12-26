@@ -146,7 +146,5 @@ int main()
         delete stud1[i];
         delete stud2[i];
     }
-    
-
     return 0;
 }
